@@ -15,3 +15,13 @@ This repository contains Dart programming exercises focused on calculating and c
 4. Run the program using:
    ```bash
    dart run bin/grade_calculator.dart
+
+## Grading System Used
+- **A**: 90 – 100
+- **B**: 80 – 89
+- **C**: 70 – 79
+- **D**: 60 – 69
+- **F**: Below 60
+- **Passing Mark**: 75 and above
+
+## Example Output
