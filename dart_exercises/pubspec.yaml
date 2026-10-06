@@ -1,0 +1,10 @@
+name: dart_exercises
+description: Student grade computation — Dart fundamentals exercise
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
